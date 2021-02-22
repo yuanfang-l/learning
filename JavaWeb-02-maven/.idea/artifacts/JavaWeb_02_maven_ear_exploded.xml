@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="JavaWeb-02-maven:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaWeb_02_maven_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JavaWeb-02-maven/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
